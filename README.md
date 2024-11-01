@@ -9,6 +9,9 @@ This provides the `tt` binary, which looks in `~/Templates` (or whatever
 you have `$XDG_TEMPLATE_DIR` set to), and will allow you to touch
 (create) files, by copying them and renaming them to whatever you wish.
 
+This utility is inspired by KDE's usage of the templates directory when using
+the right click menu to "Create New" in a directory.
+
 ## Usage
 
 ```none
