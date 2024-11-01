@@ -47,4 +47,4 @@ optimisations, or platform compatibility.
 
 Copyright © 2024 Thomas Dickson and other contributors
 
-This code is license under the GNU GPL v3+. See LICENSE.md for more details
+This code is license under the GNU GPL v3+. See LICENSE for more details
