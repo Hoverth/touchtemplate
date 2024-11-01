@@ -1,0 +1,12 @@
+[package]
+name = "touchtemplate"
+version = "0.8.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.20", features = ["derive"] }
+directories = "5.0.1"
+
+[[bin]]
+name = "tt"
+path = "src/main.rs"
