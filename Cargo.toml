@@ -2,6 +2,12 @@
 name = "touchtemplate"
 version = "0.8.0"
 edition = "2021"
+license = "GPL-3.0-or-later"
+keywords = ["terminal", "utility", "linux"]
+categories = ["command-line-utilities"]
+description = "A simple rust binary utility to touch/create a file using a template."
+repository = "https://github.com/Hoverth/touchtemplate"
+readme = "README.md"
 
 [dependencies]
 clap = { version = "4.5.20", features = ["derive"] }
